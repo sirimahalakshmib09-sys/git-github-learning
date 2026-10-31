@@ -7,3 +7,4 @@
 | Push, pull and clone | Used two copies of one repo as two laptops | Fast-forward pull |
 | Feature branch | `switch -c`, `merge`, `branch -d` | Commit `6ced598` |
 | Merge conflict | Created and resolved a conflict by hand | Merge commit `3e32b65` |
+| Pull request | Opened PR #1 and handled a review comment | PR #1 on GitHub |
