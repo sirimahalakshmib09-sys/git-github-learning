@@ -23,7 +23,6 @@ A hands-on Git and GitHub learning repository, built from scratch in one focused
 - `notes/cheatsheet.md`: the commands I reach for most
 - `notes/exercises.md`: exercises completed, with commit IDs as evidence
 - `notes/assessment.md`: written summary of branching, conflicts and undoing mistakes
-- `screenshots/`: evidence from GitHub and the terminal
 - `.gitignore`: keeps secrets such as `.env` files out of the repo
 
 ## My Workflow
